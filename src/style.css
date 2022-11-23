@@ -17,6 +17,10 @@ body{
     min-height: 100vh;
 }
 
+.colorValue{
+    font-size: 40px;
+}
+
 h1{
     color: black;
     font-size: 50px;
