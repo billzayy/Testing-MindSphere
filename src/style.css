@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: block;
+    background: linear-gradient(to right, #E7F6F7, #9FE5FB)
+}
+
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+h1{
+    color: rgba(255, 0, 0, 0.671);
+    font-size: 50px;
+}
+.sub-title{
+    color: rgba(255, 0, 0, 0.671);
+    font-size: 30px;
+}
