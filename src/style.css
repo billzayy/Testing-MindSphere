@@ -6,7 +6,7 @@
 
 body{
     display: block;
-    background: linear-gradient(to right, #E7F6F7, #9FE5FB)
+    /* background: linear-gradient(to right, #E7F6F7, #9FE5FB) */
 }
 
 .main{
@@ -18,10 +18,10 @@ body{
 }
 
 h1{
-    color: rgba(255, 0, 0, 0.671);
+    color: black;
     font-size: 50px;
 }
 .sub-title{
-    color: rgba(255, 0, 0, 0.671);
+    color: black;
     font-size: 30px;
 }
